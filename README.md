@@ -30,5 +30,5 @@ To start the Langflow server:
 uv run langflow run
 ```
 
-This will start the Langflow UI, which you can access at http://localhost:7860 in your browser.
+This will start the Langflow UI, which you can access by clicking the URL displayed in your terminal.
 
