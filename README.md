@@ -19,7 +19,7 @@ Initial data and GenAI pipelines built with Langflow.
 
 2. Install dependencies using uv:
    ```bash
-   uv install
+   uv sync
    ```
 
 ### Running Langflow
