@@ -2,6 +2,7 @@
 
 Initial data and GenAI pipelines built with Langflow.
 
+[![Open in GitHub Codespaces](https://img.shields.io/badge/Open%20in-GitHub%20Codespaces-blue?logo=github)](https://codespaces.new/Finntegrate/langflow-pipelines?quickstart=1)
 
 ## Getting Started
 
