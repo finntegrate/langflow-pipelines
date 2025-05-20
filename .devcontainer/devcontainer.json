@@ -10,7 +10,9 @@
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
 	// "forwardPorts": [],
 	// Use 'postCreateCommand' to run commands after the container is created.
-	"postCreateCommand": "uv sync"
+	"postCreateCommand": "uv sync",
 	// Configure tool-specific properties.
 	// "customizations": {},
+	// Run uv run langflow run after the container is created.
+	"postStartCommand": "uv run langflow run"
 }
